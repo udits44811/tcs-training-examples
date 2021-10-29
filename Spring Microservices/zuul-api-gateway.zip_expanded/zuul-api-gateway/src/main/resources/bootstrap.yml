@@ -1,0 +1,4 @@
+# giving a logical name for the api gateway
+spring:
+  application:
+    name: proxy-api
